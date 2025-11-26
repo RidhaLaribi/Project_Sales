@@ -1,0 +1,13 @@
+month,Product_A,Product_B,Product_C,Product_D,Max_Selling_Product,Min_Selling_Product
+2025-01-01,99,77,24,49,Product_A,Product_C
+2025-02-01,79,51,29,41,Product_A,Product_C
+2025-03-01,79,59,33,20,Product_A,Product_D
+2025-04-01,88,52,48,12,Product_A,Product_D
+2025-05-01,86,75,44,49,Product_A,Product_C
+2025-06-01,67,50,43,45,Product_A,Product_C
+2025-07-01,74,35,44,36,Product_A,Product_B
+2025-08-01,52,73,59,36,Product_B,Product_D
+2025-09-01,52,72,39,19,Product_B,Product_D
+2025-10-01,87,34,22,13,Product_A,Product_D
+2025-11-01,72,50,28,20,Product_A,Product_D
+2025-12-01,61,69,52,28,Product_B,Product_D
